@@ -1,0 +1,15 @@
+/Users/ngoson/Desktop/Custom Program/bin/Debug/net6.0/Custom_Program
+/Users/ngoson/Desktop/Custom Program/bin/Debug/net6.0/Custom_Program.deps.json
+/Users/ngoson/Desktop/Custom Program/bin/Debug/net6.0/Custom_Program.runtimeconfig.json
+/Users/ngoson/Desktop/Custom Program/bin/Debug/net6.0/Custom_Program.dll
+/Users/ngoson/Desktop/Custom Program/bin/Debug/net6.0/ref/Custom_Program.dll
+/Users/ngoson/Desktop/Custom Program/bin/Debug/net6.0/Custom_Program.pdb
+/Users/ngoson/Desktop/Custom Program/obj/Debug/net6.0/Custom_Program.csproj.AssemblyReference.cache
+/Users/ngoson/Desktop/Custom Program/obj/Debug/net6.0/Custom_Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngoson/Desktop/Custom Program/obj/Debug/net6.0/Custom_Program.AssemblyInfoInputs.cache
+/Users/ngoson/Desktop/Custom Program/obj/Debug/net6.0/Custom_Program.AssemblyInfo.cs
+/Users/ngoson/Desktop/Custom Program/obj/Debug/net6.0/Custom_Program.csproj.CoreCompileInputs.cache
+/Users/ngoson/Desktop/Custom Program/obj/Debug/net6.0/Custom_Program.dll
+/Users/ngoson/Desktop/Custom Program/obj/Debug/net6.0/ref/Custom_Program.dll
+/Users/ngoson/Desktop/Custom Program/obj/Debug/net6.0/Custom_Program.pdb
+/Users/ngoson/Desktop/Custom Program/obj/Debug/net6.0/Custom_Program.genruntimeconfig.cache
